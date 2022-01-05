@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've started to write little studies to help me to understand things that I learn online or in books.
+
+Checkout my study on [transaction isolation levels in postgres](https://github.com/Justin-Yoon/transaction-isolation) 
