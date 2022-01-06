@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Software engineer currently writing Go at [Movio](https://github.com/movio).
 
 I've started to write little studies to help me to understand things that I learn online or in books.
 
