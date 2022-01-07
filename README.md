@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Software engineer currently writing Go at [Movio](https://github.com/movio).
+I'm a Software engineer currently writing Go at [Movio](https://github.com/movio). 
 
-I've started to write little studies to help me to understand things that I learn online or in books.
+I have also worked extensively with Typescript and React in the past, although the frontend is not my focus at the moment.
+
+📖 I've started to write little studies to help me to understand things that I learn online or in books.
 
 Checkout my study on [transaction isolation levels in postgres](https://github.com/Justin-Yoon/transaction-isolation) 
